@@ -1,0 +1,11 @@
+button.darkMode{
+    background-color: brown;
+    border: 1px solid yellow;
+    color: white
+}
+
+button.lightMode{
+    background-color:chartreuse;
+    border: 1px solid white;
+    color:black
+}
