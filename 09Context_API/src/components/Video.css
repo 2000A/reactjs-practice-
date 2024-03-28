@@ -1,0 +1,38 @@
+.dark{
+    background-color: gray;
+    color:white;
+}
+
+.container{
+    width:15em;
+    margin: 0 0.2em;
+    float: left;
+    position: relative;
+}
+.container.darkMode{
+  color:crimson
+}
+.container.lightMode{
+  color:rgb(15, 226, 234)
+}
+  .pic img{
+    width: 100%;
+  }
+  .title{
+    font-weight: bold;
+    margin-bottom: 1em;
+    
+  }
+  .channel, .views{
+    font-size: small;
+    
+    margin-bottom: 0.2em;
+  }
+  
+  .views span{
+    padding: 0 0.5em;
+  }
+  .close{
+    position: absolute;
+    right: 50%;
+  }
